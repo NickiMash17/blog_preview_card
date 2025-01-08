@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/NickiMash17/blog_preview_card](https://github.com/NickiMash17/blog_preview_card)
-- Live Site URL: [https://johnmwendwa.github.io/blog-preview-card](https://johnmwendwa.github.io/blog-preview-card)
+- Live Site URL: [https://blog-preview-card-rosy-eta.vercel.app/](https://blog-preview-card-rosy-eta.vercel.app/)
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [John Mwendwa](https://johnmwendwa.vercel.app/)
-- Frontend Mentor - [@JohnMwendwa](https://www.frontendmentor.io/profile/JohnMwendwa)
+- Website - [Nicolette Mashaba](https://vercel.com/nicolette-mashabas-projects)
+- Frontend Mentor - [@Reney17](https://www.frontendmentor.io/profile/Reney17)
