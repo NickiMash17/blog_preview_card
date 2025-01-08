@@ -8,3 +8,74 @@
 body{
     background-color: #F3CF4D;
 }
+
+#preview-card-container{
+    width: 364px;
+    height: 565px;
+    background-color: #FFFF;
+    border-radius: 20px;
+    border: 1px solid #0000;
+    box-shadow: 8px 8px 0px 0px #000;
+    padding: 1.2rem;
+    margin: 3rem auto;
+}
+
+.preview-card-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.preview-card-img img{
+    border-radius: 10px;
+}
+
+.preview-card-text{
+    margin-top: 1.2rem;
+}
+
+.yellow-bg{
+    background-color: #F3CF4D;
+    padding: 4px 12px;
+    border-radius: 4px;
+    width: 90px;
+
+}
+
+.published-date{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: .7rem;
+    margin-bottom: 1rem;
+}
+
+.blog-post-title{
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: .7rem;
+    margin-bottom: 1rem;
+    transition: color .2s ease-in;
+}
+
+.blog-post-title:hover{
+    color: #F3CF4D;
+}
+
+.preview-text{
+    color: #7f7f7f;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.blog-post-avatar-container{
+    display: flex;
+    align-items: center;
+}
+
+.blog-post-avatar-container h4{
+    margin-left: 1rem;
+    font-size: 14px;
+    font-weight: 800;
+}
