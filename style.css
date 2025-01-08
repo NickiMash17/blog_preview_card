@@ -85,3 +85,16 @@ a{
     font-size: 14px;
     font-weight: 800;
 }
+
+/*  Media Queries*/
+
+@media screen and (max-width: 500px){
+    #preview-card-container{
+        width: 90%;
+        margin: 2rem auto;
+    }
+
+    .preview-card-img img{
+        width: 100%;
+    }
+}
