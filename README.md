@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project screenshot](assets/images/screenshot.png)
+![Project screenshot](./assets/images/screenshot.jpeg)
 
 ### Links
 
